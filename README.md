@@ -1,2 +1,30 @@
-# machine-learning-workbench
-Interactive machine learning study workbench for beginners
+# 机器学习练习室
+
+给零基础学习者的手机学习工作台，每天 30 分钟。打开 `index.html` 即可使用；也可将仓库根目录发布为 GitHub Pages。无需构建、账户或外部脚本。
+
+## 从哪里开始
+
+1. 今天页面 → Python 零基础，从 print(2 + 3) 学起。
+2. 每天 5 分钟回忆、15 分钟学习一个单元、10 分钟独立练习。
+3. 数学看不懂就点先修单元；概念抽象就调互动实验；会算后再做迁移题。
+4. 学完前七章尝试 A 卷，完成全路线尝试 B 卷；错题回到对应知识点。
+
+## 内容范围
+
+12 章：认识机器学习；Python 与数学；数据准备与可靠评估；回归与正则化；分类；树与集成；评价与阈值；聚类；降维；优化与神经网络；现代模型；项目与复盘。
+
+62 个单元、186 道带解析练习、21 项公开资料学习任务、10 个交互实验、两套 45 分钟模拟卷、三个可运行项目。包含五节 Python 零基础课。
+
+这是通用自学路线，未对齐某门机器学习课的官方大纲。模拟卷为自编，不保证预测学校考试。内置教程适合建立第一遍理解，不能替代完整推导与长期实践。
+
+## 代码与记录
+
+Python第一天.py 与 三个最小项目.py 只依赖标准库。Notebook 内容与项目脚本一致。网页的代码追踪是固定示例，不是 Python 解释器。后续课程中的 NumPy、scikit-learn 需要在实际 Python 环境安装。
+
+进度只保存在当前浏览器，和高维数据工作台分开。换设备、域名或清理缓存前，到“资源与备份”导出 JSON，之后手动恢复。部署到 GitHub 不会自动同步个人记录。
+
+## GitHub Pages
+
+将此目录中的文件放在 `machine-learning-workbench` 仓库根目录，保留所有文件及其相对位置。若从 `main` 分支根目录启用 GitHub Pages，站点路径为 `https://sjsj20060407-droid.github.io/machine-learning-workbench/`。启用并等待部署成功后再使用这个在线地址；本地源码不代表已经上线。
+
+资料入口包括 Python 官方中文文档、Google Machine Learning Crash Course、scikit-learn 官方指南、ISLP 官方实验、动手学深度学习等。网页给每份资料标注阅读任务和完成标准；外部资源可能需要联网。
