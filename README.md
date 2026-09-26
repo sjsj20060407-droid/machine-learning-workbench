@@ -25,6 +25,6 @@ Python第一天.py 与 三个最小项目.py 只依赖标准库。Notebook 内�
 
 ## GitHub Pages
 
-将此目录中的文件放在 `machine-learning-workbench` 仓库根目录，保留所有文件及其相对位置。若从 `main` 分支根目录启用 GitHub Pages，站点路径为 `https://sjsj20060407-droid.github.io/machine-learning-workbench/`。启用并等待部署成功后再使用这个在线地址；本地源码不代表已经上线。
+已从 `machine-learning-workbench` 仓库的 `main` 分支根目录发布 GitHub Pages：[打开在线工作台](https://sjsj20060407-droid.github.io/machine-learning-workbench/)。也可以下载仓库并在电脑上打开 `index.html`。
 
 资料入口包括 Python 官方中文文档、Google Machine Learning Crash Course、scikit-learn 官方指南、ISLP 官方实验、动手学深度学习等。网页给每份资料标注阅读任务和完成标准；外部资源可能需要联网。
